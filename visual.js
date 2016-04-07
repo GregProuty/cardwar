@@ -1,4 +1,8 @@
+<<<<<<< HEAD
     function addCard(){
+=======
+function addCard(){
+>>>>>>> origin/gh-pages
     $('#cpu').empty();
     $('#cpu').append('<img src=' + cpDeck[0].picture + '>');
 
